@@ -12904,11 +12904,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Visual Studio 2017\\Projects\\AdruinoProject\\AdruinoProject\\AdruinoProject.csproj",
+      "projectUniqueName": "D:\\ArduinoProjekt\\ArduinoProject\\AdruinoProject\\AdruinoProject\\AdruinoProject.csproj",
       "projectName": "AdruinoProject",
-      "projectPath": "D:\\Documents\\Visual Studio 2017\\Projects\\AdruinoProject\\AdruinoProject\\AdruinoProject.csproj",
+      "projectPath": "D:\\ArduinoProjekt\\ArduinoProject\\AdruinoProject\\AdruinoProject\\AdruinoProject.csproj",
       "packagesPath": "C:\\Users\\Anders\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Visual Studio 2017\\Projects\\AdruinoProject\\AdruinoProject\\obj\\",
+      "outputPath": "D:\\ArduinoProjekt\\ArduinoProject\\AdruinoProject\\AdruinoProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

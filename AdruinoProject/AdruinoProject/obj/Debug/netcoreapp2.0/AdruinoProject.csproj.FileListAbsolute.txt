@@ -9,3 +9,14 @@ D:\Documents\Visual Studio 2017\Projects\AdruinoProject\AdruinoProject\obj\Debug
 D:\Documents\Visual Studio 2017\Projects\AdruinoProject\AdruinoProject\bin\Debug\netcoreapp2.0\AdruinoProject.pdb
 D:\Documents\Visual Studio 2017\Projects\AdruinoProject\AdruinoProject\obj\Debug\netcoreapp2.0\AdruinoProject.dll
 D:\Documents\Visual Studio 2017\Projects\AdruinoProject\AdruinoProject\obj\Debug\netcoreapp2.0\AdruinoProject.pdb
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\bin\Debug\netcoreapp2.0\AdruinoProject.deps.json
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\bin\Debug\netcoreapp2.0\AdruinoProject.runtimeconfig.json
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\bin\Debug\netcoreapp2.0\AdruinoProject.runtimeconfig.dev.json
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\bin\Debug\netcoreapp2.0\AdruinoProject.dll
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\bin\Debug\netcoreapp2.0\AdruinoProject.pdb
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\obj\Debug\netcoreapp2.0\AdruinoProject.csprojResolveAssemblyReference.cache
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\obj\Debug\netcoreapp2.0\AdruinoProject.csproj.CoreCompileInputs.cache
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\obj\Debug\netcoreapp2.0\AdruinoProject.AssemblyInfoInputs.cache
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\obj\Debug\netcoreapp2.0\AdruinoProject.AssemblyInfo.cs
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\obj\Debug\netcoreapp2.0\AdruinoProject.dll
+D:\ArduinoProjekt\ArduinoProject\AdruinoProject\AdruinoProject\obj\Debug\netcoreapp2.0\AdruinoProject.pdb

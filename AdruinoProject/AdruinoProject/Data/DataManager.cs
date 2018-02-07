@@ -22,10 +22,11 @@ namespace AdruinoProject.Data
 
             message.Body = new TextPart("html")
             {
-                
+
                 Text = @"<b>Hi Robin,</b><br>
 
-<p>Someone just <span style='color:red'>triggered</span> your alarm. " + date + " " + time + "</p>"
+<p>Someone just <span style='color:red'>triggered</span> your alarm. " + date + " " + time + "</p><br>" +
+"<img src='http://www.clker.com/cliparts/1/Z/i/2/V/v/orange-light-alarm-hi.png' style='width:20%;height:30%'/>"
             };
 
 
@@ -38,7 +39,7 @@ namespace AdruinoProject.Data
                 client.Connect("smtp.gmail.com", 587, false);
 
                 // Note: only needed if the SMTP server requires authentication
-                client.Authenticate("love.wick93@gmail.com", "lgaoyrxmdragdqfr");
+                client.Authenticate("love.wick93@gmail.com", "xebmtxenvhykwjan");
 
                 client.Send(message);
                 client.Disconnect(true);
